@@ -1,0 +1,14 @@
+{
+  "name": "atividade-cypress-automationteststore",
+  "version": "1.0.0",
+  "description": "Automação de testes UI com Cypress",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
